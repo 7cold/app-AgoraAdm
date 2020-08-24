@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201609743989",
+    "firebase_url": "https://porteiroeletronico-96b5c.firebaseio.com",
+    "project_id": "porteiroeletronico-96b5c",
+    "storage_bucket": "porteiroeletronico-96b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201609743989:android:3cb80266ada4e145ccb23c",
+        "android_client_info": {
+          "package_name": "com.example.agoraflutterquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201609743989-1i3tquo9iv7auked82d4jppu1g02ol3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfHnGmXofCxc9FpZTmGMCODtKm7Wxcfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201609743989-1i3tquo9iv7auked82d4jppu1g02ol3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
